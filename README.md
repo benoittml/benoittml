@@ -1,16 +1,51 @@
-## Hi there 👋
+# Bonjour, je suis Ben 👋
 
-<!--
-**benoittml/benoittml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur passionné par [votre domaine de spécialisation, par exemple, le développement web, l'intelligence artificielle, etc.]. J'aime créer des solutions innovantes et contribuer à des projets open-source.
 
-Here are some ideas to get you started:
+## 🔧 Technologies et Outils
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Langages de programmation :** 
+  - JavaScript
+  - Python
+  - Java
+  - C#
+
+- **Frameworks et bibliothèques :**
+  - React
+  - Node.js
+  - Django
+  - Spring Boot
+
+- **Bases de données :**
+  - MongoDB
+  - PostgreSQL
+  - MySQL
+
+- **Outils :**
+  - Git
+  - Docker
+  - Visual Studio Code
+  - Postman
+
+## 🌱 En ce moment, j'apprends...
+
+- [Nouvelle technologie ou langage que vous apprenez, par exemple, TypeScript]
+- [Autre compétence ou domaine d'intérêt, par exemple, DevOps]
+
+## 📈 Mes statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=benoittml&show_icons=true&theme=radical)
+
+## 📫 Comment me contacter
+
+- **Email :** [votre.email@example.com](mailto:votre.email@example.com)
+- **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/votreprofil)
+- **Twitter :** [@VotrePseudo](https://twitter.com/VotrePseudo)
+
+## 💬 Je suis toujours ouvert aux discussions !
+
+Si vous souhaitez échanger sur un projet, partager des idées ou simplement discuter de tech, n'hésitez pas à me contacter !
+
+---
+
+Merci de visiter mon profil GitHub ! 🚀
