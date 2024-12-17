@@ -11,3 +11,6 @@
 
 ## 📚 Projets  
 Je travaille sur de petits projets pour mettre en pratique ce que j’apprends. Restez à l’écoute ! 🚧  
+
+![Graph de contributions](https://gh.md/TXTCONTRIBUTIVENDARDS…}})Afant :GRAPHBlabla >").
+
