@@ -6,8 +6,8 @@
 - 🚀 **Objectif** : Construire des projets concrets et explorer de nouvelles technologies au fil de mon apprentissage.    
 
 ## 🔧 Technologies et outils en cours d'apprentissage  
-- **Langages** : Java  
-- **CMS** : WordPress  
+- **Langages** : Java, Python, JavaScript, HTML, CSS
+- **CMS** : WordPress
 
 ## 📚 Projets  
 Je travaille sur de petits projets pour mettre en pratique ce que j’apprends. Restez à l’écoute ! 🚧  
